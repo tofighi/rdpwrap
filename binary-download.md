@@ -21,3 +21,4 @@ INSTALL of RDP Wrapper and Autoupdater
 5. Now you can use the autoupdate batch file to install and update the RDP Wrapper. Please run autoupdate.bat as administrator:
 
    "%ProgramFiles%\RDP Wrapper\autoupdate.bat"
+
